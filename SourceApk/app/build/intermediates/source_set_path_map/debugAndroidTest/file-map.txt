@@ -1,0 +1,6 @@
+com.example.sourceapk.test.app-core-1.5.0-0 C:\Users\hor1z0n\.gradle\caches\transforms-3\117962e04b98612db46e4ed7d521ed59\transformed\core-1.5.0\res
+com.example.sourceapk.test.app-annotation-experimental-1.3.0-1 C:\Users\hor1z0n\.gradle\caches\transforms-3\8926c8614022bac951cf6bb966ea69fc\transformed\annotation-experimental-1.3.0\res
+com.example.sourceapk.test.app-androidTest-2 E:\LearningLibrary\Android_Programming\SourceApk\app\build\generated\res\resValues\androidTest\debug
+com.example.sourceapk.test.app-mergeDebugAndroidTestResources-3 E:\LearningLibrary\Android_Programming\SourceApk\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.sourceapk.test.app-mergeDebugAndroidTestResources-4 E:\LearningLibrary\Android_Programming\SourceApk\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.sourceapk.test.app-merged_res-5 E:\LearningLibrary\Android_Programming\SourceApk\app\build\intermediates\merged_res\debugAndroidTest
