@@ -15,3 +15,14 @@ Android第二代加固壳（不落地加载），为了支持源程序多dex的�
 
    直接使用系统提供的类加载器InMemoryDexClassLoader。
 
+------
+
+由于本人还未学习过NDK开发，所以Native层遇到的问题暂时还未解决，故Android 8以下 (ART环境下) 的加壳仍存在问题。记录故障如下：
+
+```
+open libart.so success	//这是我用LOGE输出的
+terminating with uncaught exception of type std::bad_alloc: std::bad_alloc
+Fatal signal 6 (SIGABRT), code -6 in tid 27489 (ample.sourceapk)
+Build fingerprint: 'google/marlin/marlin:7
+...手机指纹...
+```
